@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-Mod 6
+## Randomly chose longitude and lattitude, iterated through list to grab suitable locations, cross referenced temperature, cloudiness, and wind conditions.
